@@ -1,4 +1,4 @@
-package headfirst.designpatterns.strategy.execute;
+package headfirst.designpatterns.strategy;
 
 import headfirst.designpatterns.strategy.behavior.FlyRocketPowered;
 import headfirst.designpatterns.strategy.duck.Duck;

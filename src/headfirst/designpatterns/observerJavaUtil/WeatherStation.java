@@ -1,4 +1,4 @@
-package headfirst.designpatterns.observerJavaUtil.execute;
+package headfirst.designpatterns.observerJavaUtil;
 
 import headfirst.designpatterns.observerJavaUtil.display.CurrentConditionsDisplay;
 import headfirst.designpatterns.observerJavaUtil.display.ForecastDisplay;

@@ -1,4 +1,4 @@
-package headfirst.designpatterns.observer.execute;
+package headfirst.designpatterns.observer;
 
 import headfirst.designpatterns.observer.display.CurrentConditionsDisplay;
 import headfirst.designpatterns.observer.display.ForecastDisplay;
