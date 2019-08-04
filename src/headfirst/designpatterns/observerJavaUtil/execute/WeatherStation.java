@@ -1,9 +1,9 @@
-package headfirst.designpatterns.observerJavaUtils.execute;
+package headfirst.designpatterns.observerJavaUtil.execute;
 
-import headfirst.designpatterns.observerJavaUtils.display.CurrentConditionsDisplay;
-import headfirst.designpatterns.observerJavaUtils.display.ForecastDisplay;
-import headfirst.designpatterns.observerJavaUtils.display.StatisticsDisplay;
-import headfirst.designpatterns.observerJavaUtils.subject.WeatherData;
+import headfirst.designpatterns.observerJavaUtil.display.CurrentConditionsDisplay;
+import headfirst.designpatterns.observerJavaUtil.display.ForecastDisplay;
+import headfirst.designpatterns.observerJavaUtil.display.StatisticsDisplay;
+import headfirst.designpatterns.observerJavaUtil.subject.WeatherData;
 
 public class WeatherStation {
 	public static void main(String[] args) {

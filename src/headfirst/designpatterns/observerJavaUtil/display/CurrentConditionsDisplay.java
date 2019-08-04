@@ -1,8 +1,8 @@
-package headfirst.designpatterns.observerJavaUtils.display;
+package headfirst.designpatterns.observerJavaUtil.display;
 
 import java.util.Observable;
 import java.util.Observer;
-import headfirst.designpatterns.observerJavaUtils.subject.WeatherData;
+import headfirst.designpatterns.observerJavaUtil.subject.WeatherData;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement{
 	private Observable observable;

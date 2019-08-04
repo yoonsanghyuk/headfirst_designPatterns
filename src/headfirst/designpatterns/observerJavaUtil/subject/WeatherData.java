@@ -1,4 +1,4 @@
-package headfirst.designpatterns.observerJavaUtils.subject;
+package headfirst.designpatterns.observerJavaUtil.subject;
 
 import java.util.Observable;
 
