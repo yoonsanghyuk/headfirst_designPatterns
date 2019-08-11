@@ -11,19 +11,19 @@
 클래스 내부에는 본인 스스로를 static으로 선언하여 접근을 제어시킨 후
 해당 변수를 getInstance 함수등을 통해 제공한다.
 ```java
-	class Singleton{
-		
-		private static unique;
-		
-		private Singleton(){ }
-		
-		public static Singleton getInstance(){
-			if(unique == null){
-				unique = new Singleton();
-			}
-			return unique;
+class Singleton{
+	
+	private static unique;
+	
+	private Singleton(){ }
+	
+	public static Singleton getInstance(){
+		if(unique == null){
+			unique = new Singleton();
 		}
+		return unique;
 	}
+}
 ```
 
 
