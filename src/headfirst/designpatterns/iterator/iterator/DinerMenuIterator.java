@@ -1,8 +1,9 @@
 package headfirst.designpatterns.iterator.iterator;
 
 import headfirst.designpatterns.iterator.menu.MenuItem;
+import java.util.Iterator;
 
-public class DinerMenuIterator implements Iterator{
+public class DinerMenuIterator implements Iterator<MenuItem>{
 	MenuItem[] items;
 	int position = 0;
 	
@@ -11,7 +12,7 @@ public class DinerMenuIterator implements Iterator{
 	}
 
 	@Override
-	public Object next() {
+	public MenuItem next() {
 		MenuItem menuItem = items[position];
 		position = position + 1;
 		
@@ -26,4 +27,6 @@ public class DinerMenuIterator implements Iterator{
 			return true;
 		}
 	}
+	
+
 }

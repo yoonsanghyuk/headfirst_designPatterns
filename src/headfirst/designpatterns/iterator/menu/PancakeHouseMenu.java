@@ -1,11 +1,9 @@
 package headfirst.designpatterns.iterator.menu;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
-import headfirst.designpatterns.iterator.iterator.Iterator;
-import headfirst.designpatterns.iterator.iterator.PancakeHouseMenuIterator;
-
-public class PancakeHouseMenu {
+public class PancakeHouseMenu implements Menu{
 	ArrayList<MenuItem> menuItems;
 	
 	public PancakeHouseMenu() {
@@ -26,7 +24,8 @@ public class PancakeHouseMenu {
 //		return menuItems;
 //	}
 	
-	public Iterator createIterator() {
-		return new PancakeHouseMenuIterator(menuItems);
+	public Iterator<MenuItem> createIterator() {
+		//return new PancakeHouseMenuIterator(menuItems);
+		return menuItems.iterator();
 	}
 }
