@@ -17,5 +17,5 @@ interface, abstract 등을 이용하여 기능의 동작만 받음.
 
 
 ### UML
-![Alt uml](./stratagy_uml.png?s=200 )
+![Alt uml](./strategy_uml.png?s=200 )
 
