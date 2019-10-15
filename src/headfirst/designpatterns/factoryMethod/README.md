@@ -1,5 +1,7 @@
-headfirst.designpatterns.factoryMethod# Head First : Design Patterns  
-  
+# Head First : Design Patterns  
+
+## Composite Pattern 컴포지트 패턴.  
+
 ## Factory Method Pattern 팩토리 메소드 패턴.  
   
 ### 요약 :   
