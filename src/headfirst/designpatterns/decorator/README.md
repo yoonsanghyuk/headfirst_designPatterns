@@ -18,9 +18,9 @@ darkRoast = new Whip(darkRoast);
 ```
 
 java I/O Stream도 같은 개념.  
-InputStream이라는 컴포넌트(Beverage)를 기준으로    
-FileInputStream, StringBufferInputStream, ByteArrayInputStream 등의 메인요소(커피종류)  
-PushbackInputStream, BufferedInputStream, DataInputStream, LineNumberInputStream 등의 서브요소(옵션종류)  
+InputStream이라는 컴포넌트(ex: Beverage)를 기준으로    
+FileInputStream, StringBufferInputStream, ByteArrayInputStream 등의 메인요소(ex: 커피종류)  
+PushbackInputStream, BufferedInputStream, DataInputStream, LineNumberInputStream 등의 서브요소(ex: 옵션종류)  
 등을 마구 조합하여 사용한다.  
   
 ### UML
