@@ -9,7 +9,7 @@
 최대한 예제와 비슷하게 맞춰보려 시도할 예정.  
 
 ## 목차  
-- [전략 패턴(Strategy)] (<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/strategy>)  
+- [전략 패턴(Strategy)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/strategy>)  
 - [옵저버 패턴(Observer)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/observer>)  
 - [옵저버 패턴(Observer with JavaUtil)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/observerJavaUtil>)  
 - [데코레이터 패턴(Decorator)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/decorator>)  
