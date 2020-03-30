@@ -8,6 +8,24 @@
 
 최대한 예제와 비슷하게 맞춰보려 시도할 예정.  
 
+## 목차  
+- [전략 패턴(Strategy)] (<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/strategy>)  
+- [옵저버 패턴(Observer)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/observer>)  
+- [옵저버 패턴(Observer with JavaUtil)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/observerJavaUtil>)  
+- [데코레이터 패턴(Decorator)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/decorator>)  
+- [팩토리메소드 패턴(Factory Method)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/factoryMethod>)  
+- [추상팩토리 패턴(Abstract Factory)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/abstractFactory>)  
+- [싱글톤 패턴(Singleton)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/singleton>)  
+- [커맨드 패턴(Command)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/command>)  
+- [어댑터 패턴(Adapter)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/adapter>)  
+- [퍼사드 패턴(Facade)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/facade>)  
+- [템플릿메소드 패턴(Template Method)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/templateMethod>)  
+- [이터레이터 패턴(Iterator)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/iterator>)  
+- [컴포지트 패턴(Composite)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/composite>)  
+- [스테이트 패턴(State)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/state>)  
+- [프록시 패턴(Proxy)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/proxy>)  
+- [컴파운드 패턴(Compound)](<https://github.com/yoonsanghyuk/headfirst_designPatterns/tree/master/src/headfirst/designpatterns/compound>)  
+
 
 ## 일지
 
